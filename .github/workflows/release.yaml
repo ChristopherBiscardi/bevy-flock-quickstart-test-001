@@ -17,7 +17,7 @@ on:
 # Configure constants for this workflow.
 env:
   # The base filename of the binary produced by `cargo build`.
-  BINARY: bevy_flock_quickstart_test_001
+  BINARY: bevy-flock-quickstart-test-001
   # The name to use for the packaged application produced by this workflow.
   PACKAGE_NAME: bevy-flock-quickstart-test-001
   # The itch.io page to upload to, in the format: `user-name/project-name`.
